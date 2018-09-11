@@ -1,0 +1,14 @@
+C:\Users\CLeon\Google Drive\PERSONAL\UNIVERSIDAD\NOVENO\ELECTIVA(POO C#)\ProgramaOperaciones\ProgramaOperaciones\bin\Debug\ProgramaOperaciones.exe.config
+C:\Users\CLeon\Google Drive\PERSONAL\UNIVERSIDAD\NOVENO\ELECTIVA(POO C#)\ProgramaOperaciones\ProgramaOperaciones\bin\Debug\ProgramaOperaciones.exe
+C:\Users\CLeon\Google Drive\PERSONAL\UNIVERSIDAD\NOVENO\ELECTIVA(POO C#)\ProgramaOperaciones\ProgramaOperaciones\bin\Debug\ProgramaOperaciones.pdb
+C:\Users\CLeon\Google Drive\PERSONAL\UNIVERSIDAD\NOVENO\ELECTIVA(POO C#)\ProgramaOperaciones\ProgramaOperaciones\obj\Debug\ProgramaOperaciones.csprojAssemblyReference.cache
+C:\Users\CLeon\Google Drive\PERSONAL\UNIVERSIDAD\NOVENO\ELECTIVA(POO C#)\ProgramaOperaciones\ProgramaOperaciones\obj\Debug\ProgramaOperaciones.FormPrincipal.resources
+C:\Users\CLeon\Google Drive\PERSONAL\UNIVERSIDAD\NOVENO\ELECTIVA(POO C#)\ProgramaOperaciones\ProgramaOperaciones\obj\Debug\ProgramaOperaciones.FormCirculo.resources
+C:\Users\CLeon\Google Drive\PERSONAL\UNIVERSIDAD\NOVENO\ELECTIVA(POO C#)\ProgramaOperaciones\ProgramaOperaciones\obj\Debug\ProgramaOperaciones.Properties.Resources.resources
+C:\Users\CLeon\Google Drive\PERSONAL\UNIVERSIDAD\NOVENO\ELECTIVA(POO C#)\ProgramaOperaciones\ProgramaOperaciones\obj\Debug\ProgramaOperaciones.csproj.GenerateResource.cache
+C:\Users\CLeon\Google Drive\PERSONAL\UNIVERSIDAD\NOVENO\ELECTIVA(POO C#)\ProgramaOperaciones\ProgramaOperaciones\obj\Debug\ProgramaOperaciones.csproj.CoreCompileInputs.cache
+C:\Users\CLeon\Google Drive\PERSONAL\UNIVERSIDAD\NOVENO\ELECTIVA(POO C#)\ProgramaOperaciones\ProgramaOperaciones\obj\Debug\ProgramaOperaciones.exe
+C:\Users\CLeon\Google Drive\PERSONAL\UNIVERSIDAD\NOVENO\ELECTIVA(POO C#)\ProgramaOperaciones\ProgramaOperaciones\obj\Debug\ProgramaOperaciones.pdb
+C:\Users\CLeon\Google Drive\PERSONAL\UNIVERSIDAD\NOVENO\ELECTIVA(POO C#)\ProgramaOperaciones\ProgramaOperaciones\obj\Debug\ProgramaOperaciones.FormCuadrado.resources
+C:\Users\CLeon\Google Drive\PERSONAL\UNIVERSIDAD\NOVENO\ELECTIVA(POO C#)\ProgramaOperaciones\ProgramaOperaciones\obj\Debug\ProgramaOperaciones.FormRectangulo.resources
+C:\Users\CLeon\Google Drive\PERSONAL\UNIVERSIDAD\NOVENO\ELECTIVA(POO C#)\ProgramaOperaciones\ProgramaOperaciones\obj\Debug\ProgramaOperaciones.FormTriangulo.resources
